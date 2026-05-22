@@ -15,7 +15,7 @@ $data = mysqli_fetch_assoc($result);
     <link rel="stylesheet" href="style.css">
 <head>
     <meta charset="UTF-8">
-    <title>607062500022 Raya Anandya Adimukti</title>
+     <title> 49-01 607062500022 Raya Anandya Adimukti</title>
 
 </head>
 <body>

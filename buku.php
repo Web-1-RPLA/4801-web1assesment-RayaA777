@@ -3,7 +3,7 @@
     <a href="index.php" class="write-diary-button" > Home</a>
     <a href="tambah_buku.php" class="write-diary-button">Tambah Buku</a>
 <link rel="stylesheet" href="style.css">
-    <title>607062500022 Raya Anandya Adimukti</title>
+    <title> 49-01 607062500022 Raya Anandya Adimukti</title>
     <?php
     require_once "koneksi.php";
 

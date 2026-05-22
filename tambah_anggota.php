@@ -26,6 +26,7 @@ if(isset($_POST['register'])){
 
 </head>
 <body>
+     <title> 49-01 607062500022 Raya Anandya Adimukti</title>
     <div class="container">
         <h1> Tambah Anggota</h1>
         <a href = index.php >Home </a>
